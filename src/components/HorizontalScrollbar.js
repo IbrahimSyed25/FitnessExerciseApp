@@ -1,11 +1,9 @@
-import React, { useContext } from "react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import { Box, Button, ToggleButton, Typography } from "@mui/material";
+import { Box } from "@mui/material";
 
 import Bodypart from "./Bodypart";
-import RightArrowIcon from "../assets/icons/right-arrow.png";
-import LeftArrowIcon from "../assets/icons/left-arrow.png";
+
 const responsive = {
   superLargeDesktop: {
     // the naming can be any, depends on you.

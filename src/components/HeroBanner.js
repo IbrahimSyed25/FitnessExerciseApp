@@ -1,4 +1,4 @@
-import { Box, Stack, Typography, Button } from "@mui/material";
+import { Box, Typography, Button } from "@mui/material";
 import Banner from "../assets/images/banner.png";
 function HeroBanner() {
   return (
